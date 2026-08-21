@@ -175,3 +175,9 @@ Please read our [Logo and Trademark Policy](TRADEMARK_POLICY.md).
 		</picture>
 	</a>
 </div>
+
+## 仓库使用记录
+
+# erp-demo
+
+本仓库用于 WorkBuddy × ERPNext 集成 demo，备份标签 `backup-pre-workbuddy-20260821` 对应 2026-08-21 集成前快照。
